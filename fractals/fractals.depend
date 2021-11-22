@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1557506032 source:c:\users\lucaszm\desktop\juliaa\fractal.cpp
+	"Fractal.h"
+	<iostream>
+
+1557512358 c:\users\lucaszm\desktop\juliaa\fractal.h
+
+1557513445 source:c:\users\lucaszm\desktop\juliaa\julia.cpp
+	"Julia.h"
+
+1557513219 c:\users\lucaszm\desktop\juliaa\julia.h
+	"Fractal.h"
+
+1557513950 source:c:\users\lucaszm\desktop\juliaa\mandelbrot.cpp
+	"Mandelbrot.h"
+	<iostream>
+
+1557507170 c:\users\lucaszm\desktop\juliaa\mandelbrot.h
+	"Fractal.h"
+
+1557520131 source:c:\users\lucaszm\desktop\juliaa\main.cpp
+	<fstream>
+	<iostream>
+	"Fractal.h"
+	"Julia.h"
+	"Mandelbrot.h"
+
+1557506032 source:c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\fractal.cpp
+	"Fractal.h"
+	<iostream>
+
+1557512358 c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\fractal.h
+
+1557513445 source:c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\julia.cpp
+	"Julia.h"
+
+1557513219 c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\julia.h
+	"Fractal.h"
+
+1557536162 source:c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\main.cpp
+	<fstream>
+	<iostream>
+	"Fractal.h"
+	"Julia.h"
+	"Mandelbrot.h"
+
+1557507170 c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\mandelbrot.h
+	"Fractal.h"
+
+1557513950 source:c:\users\lucaszm\desktop\repositorios\c++_fractais_poo\mandelbrot.cpp
+	"Mandelbrot.h"
+	<iostream>
+
